@@ -1,9 +1,9 @@
 1. Conditional Statements
 The MATLAB code will let user to enter a number, and return 
-1.	“negative one” while entering “-1”,
-2.	“zero” while entering “0”,
-3.	“positive one” while entering “1”,
-4.	“other value” while entering numbers other than above three.
+   “negative one” while entering “-1”,
+   “zero” while entering “0”,
+   “positive one” while entering “1”,
+   “other value” while entering numbers other than above three.
 The C++ function conditional_statements will do the same.
 
 2. Printing a Vector
